@@ -19,6 +19,8 @@
 ** M RET - new node
 ** M x org-mode - enter into org
 * CORE
+** Files
+*** f f - create file
 ** Search
 *** s s - search buffer
 
@@ -58,3 +60,14 @@
 *** C d - delete
 *** C f - show file location
 *** C e - edit
+* LEDGER
+** m a - add transaction
+** m C - sort and align
+** m d - delete
+** m p - display balance
+** m R - run report
+** m r - reconsile
+** m t - append date
+** m y - append year
+** m RET - append month
+
