@@ -1,0 +1,52 @@
+* ENSIME
+** Refactor
+*** m r f - format source
+*** m r i - organize imports
+*** m r t - import type at point
+** Inspect
+*** m h t - print type at point
+*** m h u - show uses for symbol at point
+*** m h h - show documentation at poin
+** Goto
+*** m g g - go to definition
+** Errors
+*** m e e - show error at point
+*** m e l - show all errors and warnings
+* SHELL
+** a s i - open shell
+* ORG
+** (S)TAB - (un)fold
+** M RET - new node
+** M x org-mode - enter into org
+* CORE
+** Search
+*** s s - search buffer
+
+** M x - commands
+* MAGIT
+** g s - open magit status
+*** c c - commit
+*** TAB - expand/collapse
+*** x - discard file changes
+
+* LAYOUT
+** l L - load layout from file
+** l S - save layout to file
+* NEOTREE
+** Navigation
+*** f t - file tree
+*** p f - project tree
+*** 0 - focus
+*** k - parent dir
+*** K - parent dir
+** File
+*** d - delete
+*** r - rename
+*** s - show hidden
+*** gr - refresh
+* HELM
+** Bookmarks
+*** h b - show bookmarks
+*** C d - delete
+*** C f - show file location
+*** C e - edit
