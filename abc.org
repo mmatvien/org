@@ -34,6 +34,8 @@
 *** x - discard file changes
 *** l l - show logs
 *** z - stash
+** g P - push options
+** g F - pull options
 
 * LAYOUT
 ** l L - load layout from file
