@@ -25,11 +25,11 @@
 ** M x - commands
 * MAGIT
 ** g s - open magit status
-*** s[S] - stage[all]
-*** u[U] - unstage[all]
 *** c c - commit buffer
 **** C-c C-c - commit
 **** C-c C-k - discard
+*** s[S] - stage[all]
+*** u[U] - unstage[all]
 *** TAB - expand/collapse
 *** x - discard file changes
 *** l l - show logs
