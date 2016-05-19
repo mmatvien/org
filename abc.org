@@ -32,6 +32,7 @@
 **** C-c C-k - discard
 *** TAB - expand/collapse
 *** x - discard file changes
+*** l l - show logs
 *** z - stash
 
 * LAYOUT
