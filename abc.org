@@ -1,8 +1,11 @@
 * ENSIME
+** SBT
+*** m b b - start sbt
 ** Refactor
 *** m r f - format source
 *** m r i - organize imports
 *** m r t - import type at point
+*** m r r - rename a symbol project wide
 ** Inspect
 *** m h t - print type at point
 *** m h u - show uses for symbol at point
@@ -12,6 +15,9 @@
 ** Errors
 *** m e e - show error at point
 *** m e l - show all errors and warnings
+** Typecheck
+*** m c t - type check current buffer
+*** m c T - type check all open buffers
 * SHELL
 ** a s i - open shell
 * ORG
@@ -19,11 +25,11 @@
 ** M RET - new node
 ** M x org-mode - enter into org
 * CORE
+** w p m - show messages buffer
 ** Files
 *** f f - create file
 ** Search
 *** s s - search buffer
-
 ** M x - commands
 * MAGIT
 ** g s - open magit status
@@ -70,4 +76,9 @@
 ** m t - append date
 ** m y - append year
 ** m RET - append month
-
+* RUST
+** CARGO
+*** m c c - compile project
+*** m c d - generate doc
+*** m c x - execute
+*** m g g - go to definition
